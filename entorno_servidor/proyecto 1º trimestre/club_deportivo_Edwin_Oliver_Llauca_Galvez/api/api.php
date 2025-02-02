@@ -1,4 +1,5 @@
 <?php
+//PRUEBA
 // Encabezados para permitir CORS
 header("Access-Control-Allow-Origin: *"); // Permite todas las solicitudes de origen
 header("Content-Type: application/json");
